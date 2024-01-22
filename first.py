@@ -1,3 +1,4 @@
 a = 25
-b = 35
-print(a + b)
+b = 30
+c = 60
+print(a + b + c)
